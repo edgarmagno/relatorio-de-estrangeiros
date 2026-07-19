@@ -1,0 +1,6 @@
+{
+  "name": "Extrator de Relatórios PDF para Excel",
+  "description": "Extrator de dados de relatórios PDF de checkouts para planilhas estruturadas Excel, filtrando por Nota Tipo Pagto de 5 dígitos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
